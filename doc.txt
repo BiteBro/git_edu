@@ -1,7 +1,7 @@
 hello second commit
-<<<<<<< HEAD
-one fix
-=======
 one fix
 switch to master
->>>>>>> c8d8862a03f5f520e1f60fc4c5eec46d7671442b
+two fix
+switch to master
+work master
+switch to fixOne
