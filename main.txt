@@ -2,3 +2,7 @@ main second commit
 one fix x
 switch to master
 two fix
+switch to master
+work master
+switch to fixOne
+work fixOne

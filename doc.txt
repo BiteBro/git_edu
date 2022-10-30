@@ -1,3 +1,8 @@
 hello second commit
 one fix
 switch to master
+two fix
+switch to master
+work master
+switch to fixOne
+work fixOne
