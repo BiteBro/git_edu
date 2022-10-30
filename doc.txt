@@ -1,1 +1,3 @@
-hello second committt
+hello second commit
+one fix
+switch to master
