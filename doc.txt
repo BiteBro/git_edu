@@ -4,3 +4,15 @@ switch to master
 two fix
 switch to master
 work master
+<<<<<<< HEAD
+=======
+switch to fixOne
+hello second commit
+one fix
+hello second commit
+one fix
+hello second commit
+one fix
+hello second commit
+one fix
+>>> fixOne

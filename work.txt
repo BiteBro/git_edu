@@ -3,4 +3,9 @@ one fix x
 switch to master
 two fix
 switch to master
+<<<<<<< HEAD
 work master
+=======
+work master
+switch to fixOne
+>>>>>>> fixOne
