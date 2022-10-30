@@ -1,3 +1,4 @@
 work second commit
 one fix x
 switch to master
+two fix
