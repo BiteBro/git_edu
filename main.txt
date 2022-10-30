@@ -4,8 +4,14 @@ switch to master
 two fix
 switch to master
 <<<<<<< HEAD
+<<<<<<< HEAD
 work master
 =======
 work master
 switch to fixOne
 >>>>>>> fixOne
+=======
+work master
+switch to fixOne
+work fixOne
+>>>>>>> fixTwo

@@ -5,6 +5,7 @@ two fix
 switch to master
 work master
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 switch to fixOne
 hello second commit
@@ -16,3 +17,7 @@ one fix
 hello second commit
 one fix
 >>> fixOne
+=======
+switch to fixOne
+work fixOne
+>>>>>>> fixTwo
